@@ -1,3 +1,32 @@
+:root{
+    --White: #fff;
+    --Black: #000;
+    --Green-shade-50: #9eff00;
+    --Green-shade-60: #B1FF33;
+    --Green-shade-70: #C5FF66;
+    --Green-shade-80: #D8FF99;
+    --Green-shade-90: #ECFFCC;
+    --Green-shade-95: #F5FFE5;
+    --Green-shade-97: #F9FFF0;
+    --Green-shade-99: #FDFFFA;
+    --Grey-shade-10: #191919;
+    --Grey-shade-15: #262626;
+    --Grey-shade-20: #333333;
+    --Grey-shade-30: #4C4C4D;
+    --Grey-shade-35: #59595A;
+    --Grey-shade-40: #656567;
+    --Grey-shade-60: #98989A;
+    --Grey-shade-90: #E6E6E6;
+}
+
+body {
+    font-family: "Barlow";
+}
+
+
+
+
+
 .logo-icon {
     width: 28px;
     height: 32px;
